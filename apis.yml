@@ -51,10 +51,12 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/php/refs/heads/main/apis.yml
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.php.net/feed.atom
+    type: BlogRSS
   - type: VulnerabilityDisclosure
     url: security/php-vulnerability-disclosure.yml
   - type: DomainSecurity
